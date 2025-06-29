@@ -88,3 +88,59 @@ These key elements ensure that wireframes are not only visually structured but a
 
 ---
 
+## 🗂️ Types of Wireframes
+
+Wireframes come in various levels of detail depending on the stage of the design process. The two main types are:
+
+### 📝 Low-Fidelity Wireframes
+
+**What they are:**  
+Basic, simplified sketches or digital mockups that outline the general layout and structure without detailed design elements.
+
+**Key Features:**
+- Focus on layout and structure
+- Often black and white or grayscale
+- Placeholder text (“Lorem Ipsum”) and shapes for content
+- Hand-drawn or created using simple digital tools
+
+**When to Use:**
+- Early stages of design
+- Brainstorming and ideation
+- Gathering initial feedback from stakeholders
+
+**Example Use Case:**  
+Sketching the homepage of an e-commerce site with a search bar, product grid, and footer — without worrying about fonts or color schemes.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+**What they are:**  
+Detailed and polished wireframes that closely resemble the final design. They may include specific fonts, images, and even interactivity.
+
+**Key Features:**
+- More visual detail (colors, fonts, spacing)
+- May include real content and images
+- Can demonstrate interactivity (buttons, hover effects)
+- Often built using tools like Figma or Adobe XD
+
+**When to Use:**
+- Mid to late stages of design
+- Usability testing
+- Developer handoff
+
+**Example Use Case:**  
+A finished UI screen for a login page showing specific branding, button states, and error message behavior.
+
+---
+
+## 🔍 What Type of Wireframe Is This?
+
+If referring to a specific example (such as an uploaded image or prototype shared previously), use this section to describe its fidelity.
+
+**Example:**
+
+> The wireframe used in this project is a **low-fidelity wireframe**. It uses grayscale elements and focuses on layout structure and navigation, with minimal styling or interactivity. It’s ideal for early-stage feedback and conceptualization.
+
+---
+
